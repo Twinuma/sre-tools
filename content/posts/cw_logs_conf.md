@@ -2,6 +2,8 @@
 title: "Cw_logs_conf"
 date: 2018-10-25T16:20:37+09:00
 draft: false
+Tags: ["aws", "cloudwatchlogs"]
+Categories: ["aws"]
 ---
 ## CloudWatch Logs設定サンプル
 ```

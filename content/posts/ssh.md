@@ -2,6 +2,8 @@
 title: "SSH Setting"
 date: 2018-10-25T15:21:49+09:00
 draft: false
+Tags: ["linux", "ssh"]
+Categories: ["linux"]
 ---
 
 ## `~/.ssh/config`

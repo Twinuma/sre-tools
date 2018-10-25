@@ -2,6 +2,8 @@
 title: "Linux Command"
 date: 2018-10-25T16:19:00+09:00
 draft: false
+Tags: ["linux", "command"]
+Categories: ["linux"]
 ---
 ## CPU使用率TOP10を表示する
 `ps -e aux | sort -r -k 3 | head -n 10`

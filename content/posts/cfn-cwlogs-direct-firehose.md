@@ -2,6 +2,8 @@
 title: "Cfn Cwlogs Direct Firehose"
 date: 2018-10-25T15:23:35+09:00
 draft: false
+Tags: ["aws", "cloudwatchlogs"]
+Categories: ["aws"]
 ---
 
 ## CloudWatch LogsのデータをFirehoseを使ってS3に保存するCloudFormationのテンプレート

@@ -2,6 +2,8 @@
 title: "Install Apps"
 date: 2018-10-25T16:08:30+09:00
 draft: false
+Tags: ["apps"]
+Categories: ["mac"]
 ---
 - 1Password 7.app
 - 1Password 7.app.zip

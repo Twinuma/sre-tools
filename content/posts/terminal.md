@@ -2,6 +2,8 @@
 title: "Terminal Setting"
 date: 2018-10-25T15:18:42+09:00
 draft: false
+Tags: ["mac", "terminal"]
+Categories: ["mac"]
 ---
 
 ## `~/.zshrc`
