@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Takayuki ChatWork SRE tools"
 theme = "purehugo"
