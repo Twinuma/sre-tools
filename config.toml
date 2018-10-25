@@ -1,4 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+DefaultContentLanguage = "ja"
+languageCode = "ja-JP"
 title = "Takayuki ChatWork SRE tools"
 theme = "purehugo"
