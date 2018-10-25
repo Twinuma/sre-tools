@@ -3,3 +3,8 @@ DefaultContentLanguage = "ja"
 languageCode = "ja-JP"
 title = "Takayuki ChatWork SRE tools"
 theme = "purehugo"
+Paginate = 10
+
+[params]
+  twitterName = "twinuma"
+  githubName = "twinuma"

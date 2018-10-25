@@ -2,6 +2,8 @@
 title: "My Profile"
 date: 2018-10-25T11:30:39+09:00
 draft: false
+Tags = ["profile"]
+Categories = ["profile"]
 ---
 - [facebook](https://www.facebook.com/takayuki.niinuma)
 - [twinuma](https://twitter.com/twinuma?lang=ja)
